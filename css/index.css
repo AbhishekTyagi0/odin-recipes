@@ -1,0 +1,30 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(192, 243, 192);
+}
+ 
+
+.img1{
+    opacity: .7;
+    position: relative;
+}
+
+
+div{
+    position: absolute;
+    top: 300px;
+    right: 500px;
+    transform: translate(-50%,-50%);
+}
+.list{
+    width: 70px;
+    height: 30px;
+    margin: 12px 14px;
+    list-style: none;
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+}
+
